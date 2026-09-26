@@ -5,9 +5,9 @@ My first exsample for work
 
 To run our code:
 
-"python main.py"
+'python main.py'
 
 '''python
 def hello():
-    return ""
+    return "Hello"
 '''
